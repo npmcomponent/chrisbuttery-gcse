@@ -11,7 +11,7 @@
 
 ## API
 
-  require('chrisbuttery/gcse');
+  require('chrisbuttery/gcse')('your-ID');
 
 ## License
 
