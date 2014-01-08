@@ -10,7 +10,7 @@
 
 ## API
 ```javascript
-require('chrisbuttery/gcse')('your-ID');
+require('gcse')('your-ID');
 ```
 
 ```
