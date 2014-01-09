@@ -18,7 +18,7 @@ function gsce(id) {
  * Get the url
  */
 function url(id) {
-  return ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + 'google.com/cse/cse.js?cx=' + id;
+  return ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.google.com/cse/cse.js?cx=' + id;
 }
 
 /**
