@@ -1,0 +1,9 @@
+{
+  "name": "chrisbuttery-gcse",
+  "description": "Google Custom Search Element tag.",
+  "version": "0.0.2",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
